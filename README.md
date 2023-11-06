@@ -16,7 +16,7 @@
 
 | [Parts List](parts list link) | [Buy Raw](buy raw link) | [Buy Complete](buy raw link) | [Instructions](instructions link) |
 
-### Gandalf
+### Gray Pilgrim
 : A longer but more svelte pipe design.
 
 | [Parts List](parts list link) | [Buy Raw](buy raw link) | [Buy Complete](buy raw link) | [Instructions](instructions link) |
