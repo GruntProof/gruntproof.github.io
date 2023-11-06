@@ -8,7 +8,7 @@
 : The concept of being "grunt-proof" comes from the US Marine Corps infantry where the quality and usefulness of an item is directly related to how long it takes to break. We are a collective of collaborating artists dedicated to creating items that can withstand the wear, tear, and abuse commonly experienced whilst under field conditions.
 
 ### Mashkawaa
-: A bong design structured around the ubiquitous wide-mouth mason jar. 
+: A durable bong design structured around the ubiquitous wide-mouth mason jar. 
 
 | [Parts List](parts list link) | [Buy Raw](buy raw link) | [Buy Complete](buy raw link) | [Instructions](instructions link) |
 
