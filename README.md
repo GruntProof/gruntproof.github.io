@@ -1,5 +1,5 @@
 # gruntproof.github.io
-[TikTok](https://www.tiktok.com/@a90sthemedmidlifecrisis) | [Etsy](https://etsy.com/show/DerakovinCreations)
+[TikTok](https://www.tiktok.com/@a90sthemedmidlifecrisis) | [Etsy](https://etsy.com/show/DerakovinCreations?ref=shop-header-name&listing_id=1541267163&from_page=listing)
 
 ### Mission Statement
 : We are sick of products that barely survive the warranty period, let alone long enough to survive us. We intend to make our products as art pieces of heirloom quality that, with proper maintenance and care, should remain serviceable for generations.
