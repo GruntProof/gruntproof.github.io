@@ -1,4 +1,4 @@
-# gruntproof.github.io
+# GruntProof
 [TikTok](https://www.tiktok.com/@a90sthemedmidlifecrisis) | [Etsy](https://www.etsy.com/shop/DerakovinCreations)
 
 ### Mission Statement
