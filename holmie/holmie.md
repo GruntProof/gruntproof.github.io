@@ -14,4 +14,4 @@
 | 10 | 1/2" Screen | ![half inch screen](imageRef) |
 
 ![holmie assembled](IMG_4419.jpeg)
-1[holmie parts](IMG_4420.jpeg)
+![holmie parts](IMG_4420.jpeg)
