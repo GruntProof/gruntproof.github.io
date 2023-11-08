@@ -10,7 +10,7 @@
 ### Mashkawaa
 : A durable bong design structured around the ubiquitous wide-mouth mason jar. 
 
-| [Parts List](parts list link) | [Buy Raw](buy raw link) | [Buy Complete](buy raw link) | [Instructions](instructions link) |
+| [Parts List](https://gruntproof.github.io/mashkawaa/mashkawaa.html) | [Buy Raw](buy raw link) | [Buy Complete](buy raw link) | [Instructions](instructions link) |
 
 ### Holmie
 : A portable design inspired by Sherlock Holmes' iconic Calabash pipe.
@@ -20,4 +20,4 @@
 ### Gray Pilgrim
 : A longer but more svelte pipe design.
 
-| [Parts List]([htt](https://gruntproof.github.io/grayPilgrim/grayPilgrim.html)) | [Buy Raw](buy raw link) | [Buy Complete](buy raw link) | [Instructions](instructions link) |
+| [Parts List](https://gruntproof.github.io/grayPilgrim/grayPilgrim.html) | [Buy Raw](buy raw link) | [Buy Complete](buy raw link) | [Instructions](instructions link) |
