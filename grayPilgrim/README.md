@@ -1,5 +1,5 @@
-# Gray Pilgrim
-### Parts List
+# GRAY PILGRIM
+### PARTS LIST
 | Quantity | Description | Image |
 | --------- | ------------ | --------|
 | 1 | 1/2 inch lock nut | ![half inch lock nut](imageRef) |
@@ -15,5 +15,8 @@
 | 4 | 1/2" Hex Nipple Cap | ![half inch hex nipple cap](imageRef) |
 | 10 | 1/2" Screen | ![half inch screen](imageRef) |
 
+## RAW
 ![gray pilgrim assembled](https://gruntproof.github.io/IMG_4421.jpeg)
 ![gray pilgrim parts](https://gruntproof.github.io/IMG_4422.jpeg)
+
+## SEASONED
